@@ -1,0 +1,16 @@
+.graph-days {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.graph-days li p {
+    margin-right: 10px;
+    margin-bottom: 17px;
+
+    color: #959494;
+
+
+    font-family: Inter;
+    font-size: 14px;
+}

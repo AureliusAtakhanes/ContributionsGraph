@@ -1,0 +1,16 @@
+.graph-months {
+    list-style: none;
+
+    width: 900px;
+    height: 40px;
+    margin: 0 25px;
+    padding-top: 12px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    font-size: 14px;
+    color: #959494;
+    font-family: Inter;
+}

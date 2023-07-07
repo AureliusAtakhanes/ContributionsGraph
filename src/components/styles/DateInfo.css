@@ -1,0 +1,47 @@
+.contributionInfo {
+    margin: 30px;
+    padding: 10px;
+
+    display: flex;
+}
+
+.contributionDate {
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: none;
+    background-color: #000;
+    color: #FFFFFF;
+    white-space: nowrap;
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: -40px;
+    font-family: Inter;
+    font-size: 14px;
+}
+
+.more {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #959494;
+
+    margin-left: 11px;
+    margin-top: 4px;
+}
+
+.less {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #959494;
+
+    margin-right: 11px;
+    margin-top: 4px;
+}
